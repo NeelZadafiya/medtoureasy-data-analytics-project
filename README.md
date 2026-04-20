@@ -1,20 +1,27 @@
-# MedTourEasy Data Analytics Project
+# Left vs Right Handedness — Death Age Analysis
 
-## Analyzing Death Age Difference of Left vs Right-Handed People
-
-**Intern:** Neel Zadafiya
-**Organization:** MedTourEasy
-**Date:** April 2026
-
-## Project Summary
-Built a Bayesian statistical model in Python to investigate 
-whether left-handed people die younger than right-handed people. 
-Proved the 9-year age gap was a demographic artifact caused by 
-historical suppression of left-handedness — not biology.
+## Project Overview
+Analyzed whether left-handed people die younger than right-handed 
+people using Bayesian statistics and Python.
 
 ## Tools Used
-Python | Pandas | NumPy | Matplotlib | Google Colab
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Bayesian Statistics
 
 ## Key Finding
-The gap shrinks from ~8 years (1990) to ~0 years (2018) — 
-proving it was never biological.
+The apparent age gap is a historical statistical artifact — 
+not a biological fact.
+
+## Files
+- Jupyter Notebook — Complete Python code for all 10 tasks
+- Project Report — PPT presentation of findings
+- Certificate — Google Data Analytics Professional Certificate
+
+## Certificate Verification
+https://coursera.org/verify/professional-cert/8UHZEQ80UDR9
+
+## Completed As Part Of
+MedTourEasy Data Analytics Traineeship — April 2026
